@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+header {
+	height: 70px;
+}
+
+.learn {
+	background-color:lightblue;
+	height: 300px;
+}
+
+.learn img {
+	position: center;
+	display: flex;
+	width: 200px;
+}
+
+.learn {
+	width: 100%;
+	height: 500px;
+	background-color: teal;
+	display: block;
+	vertical-align: middle;
+	 position: relative;
+}
+
+.learn img{
+	padding: 32px 24px 32px 40px;
+	float: left;
+}
+.learn h1 {
+	font-weight: bold;
+	align: left;
+	padding-right: 100px;
+	width: 50%;
+	font-size: 3em;
+	position: relative;
+	 
+}
+.learn h1 {
+	font-size: 2em
+}
+
+.learn h2 {
+	font-size: 1.5em
+	
+}
+
+.learn button {
+	background-color: lightblue;
+	width: 200px;
+	height: 100px;
+}
+
+.schedule {
+background-color: white;
+	}
+	
+.schedule img {
+	margin: 32px 24px;
+	}
+
+.schedule {
+	display: column;
+}
+
+.start img {
+	background-color: teal;
+	display: inline-flex;
+	
+}
+
+.start {
+	align-content: left;
+	margin: 32px;
+	height: 100px;
+	display: inline;
+	float: left;
+}
+.container {
+	width:50%;
+	height: 150px;
+	overflow: hidden;
+}
+
+.container img {
+	display: block;
+}
+#software,
+#computer,
+#design,
+#data,
+#business,
+#marketing {
+display: table-cell;
+margin:32;
+}
+
+
+thesis {
+	background-color: white;
+	}
+.thesis img {
+	width: 150px;
+	}
+	
+video {
+	width: 50%;
+	align: left;
+}
